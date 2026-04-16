@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+peview_client/__init__.py
+peview_client.egg-info/PKG-INFO
+peview_client.egg-info/SOURCES.txt
+peview_client.egg-info/dependency_links.txt
+peview_client.egg-info/top_level.txt
