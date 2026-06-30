@@ -1,5 +1,7 @@
 # PEView Client SDK
 
+<img width="412" height="112" alt="image" src="https://github.com/user-attachments/assets/4add2762-ce6b-4924-a8fb-8a6c37a208b4" />
+
 PEView Client SDK is a high-performance PE/PE32+ structured parsing development toolkit targeting the Windows platform. Built on an independent PEView Server service architecture, it delivers process-isolated, standardized, full-spectrum static parsing capabilities for PE files.
 
 This SDK encapsulates the low-level PE structure parsing logic for Windows and exposes a unified, concise, fully covered set of Python APIs. It supports a complete suite of reverse analysis features including reading basic PE metadata, parsing structural layouts, analyzing import/export tables, address conversion, signature searching, code disassembly, and module security attribute detection. It also allows users to integrate seamlessly with any MCP or large language model to implement intelligent analysis workflows.
